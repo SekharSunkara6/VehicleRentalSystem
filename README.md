@@ -22,8 +22,9 @@ A fully functional vehicle rental system that demonstrates the use of abstract c
 git clone https://github.com/SekharSunkara6/VehicleRentalSystem.git
 ```
 
+2. Navigate to the directory 
 ``` bash
-2. cd VehicleRentalSystem
+cd VehicleRentalSystem
 ```
 
 3. Run the Main Class
