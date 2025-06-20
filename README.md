@@ -10,3 +10,15 @@ Objective: To design and implement a vehicle rental system using abstract classe
 
 # Expected Outcome:
 A fully functional vehicle rental system that demonstrates the use of abstract classes, inheritance, and interfaces. The system should be able to handle different types of vehicles and calculate rental costs accurately.
+
+# How to Run This Project
+# Prerequisites
+- Java JDK 8 or higher installed on your system
+- (Optional) VS Code or any Java IDE
+
+# Steps to Run from the Command Line
+1. Clone the Repository
+git clone https://github.com/SekharSunkara6/VehicleRentalSystem.git
+cd VehicleRentalSystem
+
+ 
