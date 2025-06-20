@@ -21,10 +21,14 @@ A fully functional vehicle rental system that demonstrates the use of abstract c
 ``` bash
 git clone https://github.com/SekharSunkara6/VehicleRentalSystem.git
 ```
+
+``` bash
 2. cd VehicleRentalSystem
+```
 
 3. Run the Main Class
+``` bash
 java Main
-
+```
 
  
