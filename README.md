@@ -19,6 +19,6 @@ A fully functional vehicle rental system that demonstrates the use of abstract c
 # Steps to Run from the Command Line
 1. Clone the Repository
 git clone https://github.com/SekharSunkara6/VehicleRentalSystem.git
-cd VehicleRentalSystem
+&/ cd VehicleRentalSystem
 
  
